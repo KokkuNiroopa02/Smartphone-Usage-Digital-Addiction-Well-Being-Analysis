@@ -95,6 +95,10 @@ Data Preparation: Power Query
 Programming Language: SQL
 Platform: GitHub
 
+📂 Repository Structure A recommended GitHub repository structure is: smartphone-usage-analysis/ │ 
+├── README.md ├── smartphone.pbix │ └── assets/ └── screenshots/ ├── dashboard.png ├── report1.png └── report2.png
+
+
 🔍 Conclusion
 
 This project collects and cleans smartphone usage data, stores it in SQL Server, and connects it to Power BI for analysis.
